@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364603820070",
+    "firebase_url": "https://androidfbcrudtutorial.firebaseio.com",
+    "project_id": "androidfbcrudtutorial",
+    "storage_bucket": "androidfbcrudtutorial.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364603820070:android:b116d5e387d495be0d3ee7",
+        "android_client_info": {
+          "package_name": "com.learn.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364603820070-dihqtskgdclhtggds70klpe3v5bq0lch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWGz-tTlbr75y9IUrT8QsX_G1K5raT4v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364603820070-dihqtskgdclhtggds70klpe3v5bq0lch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
